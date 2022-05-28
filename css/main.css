@@ -259,6 +259,16 @@
        position: fixed;
        bottom: 0;
      }
+
+     .attribution {
+       font-size: 0.7778em;
+       color: #ffffff;
+     }
+
+     .attribution a {
+       color: #01f9f8;
+       text-decoration: none;
+     }
   
   /* ==========================================================================
      Helper classes
